@@ -1,5 +1,5 @@
 # hola-mundo
 repositorio de prueba
 
-##info
+## info
 prueba de funcionalidad github
