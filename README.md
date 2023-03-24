@@ -2,4 +2,4 @@
 repositorio de prueba
 
 ## info
-prueba de funcionalidad github
+repositorio de funcionalidad github
